@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sky-taxy';
-  url = '';
+  url = 'assets/notebook1010.png';
   alt='title';
 }
