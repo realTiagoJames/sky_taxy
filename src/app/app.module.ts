@@ -7,10 +7,12 @@ import { MatIconModule } from '@angular/material/icon';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { PhotoComponent } from './photo/photo/photo.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PhotoComponent
   ],
   imports: [
     BrowserModule,
